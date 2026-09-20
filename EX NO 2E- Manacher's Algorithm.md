@@ -30,10 +30,7 @@ If the palindrome goes beyond R, update C and R
 
 ## Program:
 ```
-/*
-Developed by: Abinaya A
-Register Number: 212223040003
-*/
+
 
 import java.util.Scanner;
 
