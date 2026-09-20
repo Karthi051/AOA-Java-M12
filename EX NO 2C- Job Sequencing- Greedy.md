@@ -27,10 +27,7 @@ Each job takes 1 unit of time and only one job can be done at a time. The goal i
 
 ## Program:
 ```
-/*
-Developed by: Abinaya A
-Register Number: 212223040003
-*/
+
 import java.util.*;
 
 public class JobScheduling {
